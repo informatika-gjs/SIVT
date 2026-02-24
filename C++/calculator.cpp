@@ -15,7 +15,7 @@ int main()
     cout << "Prosim, zadejte cislo k vypoctu: " << endl;
     cin >> cislo1;
 
-    cout <<                                      "Prosim, zadejte druhe cislo: " << endl;
+    cout <<   "Prosim, zadejte druhe cislo: " << endl;
     cin >> cislo2;
 
     cout << "Zadejte operaci: " << endl;
